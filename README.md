@@ -1,4 +1,4 @@
 # infovis
 
-[w32](https://bichodev.github.io/infovis/w32/)
+[w32 in D3.js](https://bichodev.github.io/infovis/w32/)
 
